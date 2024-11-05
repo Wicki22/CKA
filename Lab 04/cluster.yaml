@@ -7,4 +7,4 @@ nodes:
     hostPort: 30008 # The host port you want to expose the k8s service
     listenAddress: "0.0.0.0"
     protocol: tcp
-- role: worker
+- role: worker 
