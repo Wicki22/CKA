@@ -1,9 +1,9 @@
 apiVersion: v1
-kind: Namespace
+kind: ReplicaSet
 metadata:
   name: dev-1
 ---
 apiVersion: v1
-kind: Namespace
+kind: ReplicaSet
 metadata:
   name: dev-2
