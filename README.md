@@ -8,3 +8,4 @@
 4. [Lab 04: Deploy a Replicaset and expose it using a Nodeport Service](#lab-04)
 5. [Lab 05: Deploy a Replicaset and expose it using a ClusterIP Service](#lab-05)
 6. [Lab 06: Deploy a Replicaset and an ExternalName service. Access the service via its metadata name from inside each pod](#lab-06)
+[Lab 07: Deploy a Replicaset and a LoadBalancer service. Use an AWS Load Balancer](#lab-07)
