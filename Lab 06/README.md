@@ -39,5 +39,3 @@ To access the service from a pod in another namespace
 ## Clean Up
 
 `kubectl -f delete yaml`
-
-`terraform destroy -auto-approve`
