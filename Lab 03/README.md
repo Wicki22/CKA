@@ -67,3 +67,4 @@ The same thing applies to the replicaset in the second namespace.
 
 `kubectl delete namespace dev-1`
 `kubectl delete namespace dev-2`
+
